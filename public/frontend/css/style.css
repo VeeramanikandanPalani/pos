@@ -1,0 +1,69 @@
+
+.top-header-bg-color{
+    background-color: #1C2331!important;
+}
+.gee_button{
+    width: 7rem;
+    height: 2rem;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    font-family: serif;
+    outline: auto;
+    font-size: small;
+    border: outset;
+}
+thead{
+    background-color: #1c2331;
+    font-size:smaller;
+    color:white;
+}
+tbody{
+    font-size:smaller;
+}
+.btn-group{
+    border:1px solid #dbd4e1;
+}
+
+.multiselect-container .dropdown-menu .show,li{
+    float: left;
+}
+.multiselect-container .dropdown-menu .show,input[type='checkbox']{
+    margin-left: -20px !important;
+    margin-right: 3px !important;
+    margin-top: 4px !important;
+}
+.multiselect-container .dropdown-menu, li {
+    width: -webkit-fill-available;
+}
+.filter_form{
+    background-color: #1c2331;
+    color: white;
+}
+div.dt-buttons {
+    float: right;
+    margin-left:5px;
+}
+.buttons-copy {
+    background-color: #1c2331;
+    color: white;
+}
+.buttons-csv {
+    background-color: #1c2331;
+    color: white;
+}
+.buttons-pdf {
+    background-color: #1c2331;
+    color: white;
+}
+.buttons-excel {
+    background-color: #1c2331;
+    color: white;
+}
+.top-header-nav-ul{
+    font-size: smaller;
+    font-weight: 700;
+    cursor: move;
+}
